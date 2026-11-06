@@ -89,16 +89,6 @@ const vivek = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akib2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Akib's GitHub statistics" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akib2005&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
 ---
 
 <div align="center">
