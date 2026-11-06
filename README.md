@@ -1,40 +1,15 @@
 <div align="center">
 
   <h1>Hi, I'm Vivek Sahoo 👋</h1>
-  <h3>A TY CSE Student | Aspiring Backend Engineer</h3>
+  <h3>TY CSE Student | Aspiring Backend Engineer</h3>
 
   <p><strong>Building systems, one API at a time.</strong></p>
 
   <p>
-    Focused on Java, backend development, data structures & algorithm, secure APIs, and exploring how AI can solve practical problems.
+    Focused on Java, backend development, Data Structures & Algorithms, secure APIs, and exploring how AI can solve practical problems.
   </p>
 
 </div>
-
----
-
-## ⚡ About Me
-
-```javascript
-const vivek = {
-  name: "Vivek Sahoo a.k.a sahoops",
-  role: "Aspiring Backend Engineer",
-  education: "Computer Science & Engineering",
-
-  currentFocus: [
-    "Java and Spring Boot backend development",
-    "REST APIs, authentication, and application security",
-    "Data Structures & Algorithms",
-    "Database design and reliable data handling",
-    "Exploring AI concepts and practical AI-powered applications",
-  ],
-
-  buildingToward: "Scalable, secure backend systems and practical AI applications",
-
-  engineeringMindset:
-    "Understand the fundamentals. Build with intention. Test the edge cases.",
-};
-```
 
 ---
 
@@ -63,6 +38,31 @@ const vivek = {
 
 ---
 
+## ⚡ About Me
+
+```javascript
+const vivek = {
+  name: "Vivek Sahoo a.k.a sahoops",
+  role: "Aspiring Backend Engineer",
+  education: "Computer Science & Engineering",
+
+  currentFocus: [
+    "Java and Spring Boot backend development",
+    "REST APIs, authentication, and application security",
+    "Data Structures & Algorithms",
+    "Database design and reliable data handling",
+    "Exploring AI concepts and practical AI-powered applications",
+  ],
+
+  buildingToward: "Scalable, secure backend systems and practical AI applications",
+
+  engineeringMindset:
+    "Understand the fundamentals. Build with intention. Test the edge cases.",
+};
+```
+
+---
+
 ## 🧠 Core Concepts
 
 <p>
@@ -86,8 +86,6 @@ const vivek = {
 - Improving problem-solving through Data Structures & Algorithms.
 - Exploring AI and finding practical ways to integrate it into useful applications.
 - Learning to build reliable applications with databases, testing, and CI/CD.
-
----
 
 ---
 
